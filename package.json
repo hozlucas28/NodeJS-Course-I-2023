@@ -1,0 +1,39 @@
+{
+	"name": "nodejs-course-i-2023",
+	"version": "1.0.0",
+	"description": "Repository of NodeJS course (part one) of Midudev.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"prepare": "husky install"
+	},
+	"lint-staged": {
+		"**/*": "prettier --write --ignore-unknown"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/hozlucas28/NodeJS-Course-I-2023.git"
+	},
+	"keywords": [
+		"NodeJS",
+		"Node",
+		"Course",
+		"Midudev",
+		"Part one"
+	],
+	"author": "hozlucas28",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/hozlucas28/NodeJS-Course-I-2023/issues"
+	},
+	"homepage": "https://github.com/hozlucas28/NodeJS-Course-I-2023#readme",
+	"dependencies": {
+		"picocolors": "^1.0.0"
+	},
+	"devDependencies": {
+		"husky": "^8.0.3",
+		"lint-staged": "^13.2.3",
+		"prettier": "3.0.1",
+		"standard": "^17.1.0"
+	}
+}
