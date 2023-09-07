@@ -47,6 +47,9 @@
         <li>
             <a href="https://github.com/hozlucas28/NodeJS-Course-IV-2023" target="_blank">Repository of NodeJS - IV course</a>
         </li>
+        <li>
+            <a href="https://github.com/hozlucas28/NodeJS-Course-V-2023" target="_blank">Repository of NodeJS - V course</a>
+        </li>
     </ul>
 </p>
 
